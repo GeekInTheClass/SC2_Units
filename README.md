@@ -1,5 +1,4 @@
-# SC2_Strategy
-SC2 전략에 대하여
+# SC2_Units
 
 1. 테란
 
